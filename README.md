@@ -10,6 +10,8 @@
 
 You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_2_minitalk/blob/main/extras/lvl_2_minitalk.pdf)
 
+![GitHub Logo](/extras/images/gif1.gif)
+
 ## How to run:
 
 Download the repository.
@@ -28,7 +30,7 @@ Process ID and the message you want to send:
 `./client 55123 "Hey There Partner. Hi Bill ♠♠♠♠!"`
 
 The server will get the message, and it will send back to the client
-saying it received it!
+saying it received it.
 
 
 ## Useful Links:
@@ -481,7 +483,7 @@ Convert Character to Binary in Code Explanation:
 
 	To compare ALL bits of the 'Z' to 1 you have to shift every single one of them.
 
-	First Step:															RESULT = 0
+	First Step:									RESULT = 0
 
 			Z is		= 01011010
 			Z >> 7 is	= 00000000
@@ -493,7 +495,7 @@ Convert Character to Binary in Code Explanation:
 
 			Z >> 7 & 1 = 0;
 
-	Second Step:														RESULT = 01
+	Second Step:								RESULT = 01
 
 			Z is		= 01011010
 			Z >> 6 is	= 00000001
@@ -506,7 +508,7 @@ Convert Character to Binary in Code Explanation:
 			Z >> 6 & 1 = 1;
 
 
-	Third Step:															RESULT = 010
+	Third Step:									RESULT = 010
 
 			Z is		= 01011010
 			Z >> 5 is	= 00000010
@@ -519,7 +521,7 @@ Convert Character to Binary in Code Explanation:
 			Z >> 5 & 1 = 0;
 
 
-	Fourth Step:															RESULT = 0101
+	Fourth Step:								RESULT = 0101
 
 			Z is		= 01011010
 			Z >> 4 is	= 00000101
@@ -532,7 +534,7 @@ Convert Character to Binary in Code Explanation:
 			Z >> 4 & 1 = 1;
 
 
-	Fifth Step:															RESULT = 01011
+	Fifth Step:									RESULT = 01011
 
 			Z is		= 01011010
 			Z >> 3 is	= 00001011
@@ -545,7 +547,7 @@ Convert Character to Binary in Code Explanation:
 			Z >> 3 & 1 = 1;
 
 
-	Sixth Step:															RESULT = 010110
+	Sixth Step:									RESULT = 010110
 
 		" Z >> 2 & 1 = ? "
 
@@ -560,7 +562,7 @@ Convert Character to Binary in Code Explanation:
 			Z >> 2 & 1 = 0;
 
 
-	Seventh Step:														RESULT = 0101101
+	Seventh Step:								RESULT = 0101101
 
 		" Z >> 1 & 1 = ? "
 
@@ -575,7 +577,7 @@ Convert Character to Binary in Code Explanation:
 			Z >> 1 & 1 = 1;
 
 
-	Eighth Step:														RESULT = 01011010
+	Eighth Step:								RESULT = 01011010
 
 		" Z >> 0 & 1 = ? "
 
