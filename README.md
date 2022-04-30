@@ -1,4 +1,4 @@
-![GitHub Logo](/extras/images/Success.png)
+![](/extras/images/Success.png)
 
 ###### <i>Recent Update on 30/04/2022.</i>
 • Finished the project.
@@ -10,7 +10,7 @@
 
 You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_2_minitalk/blob/main/extras/lvl_2_minitalk.pdf)
 
-![GitHub Logo](/extras/images/gif1.gif)
+![](/extras/images/gif1.gif)
 
 ## How to run:
 
