@@ -57,7 +57,7 @@ int	print_message(char *binary)
 
 void	handle_sigusr(int sig, siginfo_t *info, void *ucontext)
 {
-	static char	binary[8] = {0};
+	static char	binary[9] = {0};
 	static int	bits = 0;
 
 	(void)ucontext;

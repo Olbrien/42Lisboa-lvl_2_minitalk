@@ -15,6 +15,7 @@
 void	send_message_norminette(char *message, int count, int bits,
 								int target_pid)
 {
+	usleep(10);
 	if ((message[count] >> bits & 1) == 0)
 	{
 		if (kill(target_pid, SIGUSR1) == -1)
