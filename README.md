@@ -8,7 +8,7 @@
 
 ## Subject:
 
-You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_5_minitalk/blob/main/extras/lvl_5_minitalk.pdf)
+You can find the subject of this project [here.](https://github.com/Olbrien/42Lisboa-lvl_2_minitalk/blob/main/extras/lvl_2_minitalk.pdf)
 
 ## How to run:
 
