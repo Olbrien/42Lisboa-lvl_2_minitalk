@@ -5,7 +5,7 @@ int main()
 {
 	// Convert to Binary
 
-	char binary[8];
+	char binary[9];
 	char Z = 'x';
 
 	int bits = 7;
